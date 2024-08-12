@@ -1,0 +1,7 @@
+setup.py
+centernet/__init__.py
+centernet/config.py
+centernet.egg-info/PKG-INFO
+centernet.egg-info/SOURCES.txt
+centernet.egg-info/dependency_links.txt
+centernet.egg-info/top_level.txt

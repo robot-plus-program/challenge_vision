@@ -1,0 +1,13 @@
+setup.py
+centerpt/__init__.py
+centerpt/center_point_net.py
+centerpt/labeller.py
+centerpt/train.py
+detic/__init__.py
+detic/config.py
+detic/custom_solver.py
+detic/predictor.py
+detic.egg-info/PKG-INFO
+detic.egg-info/SOURCES.txt
+detic.egg-info/dependency_links.txt
+detic.egg-info/top_level.txt
