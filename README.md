@@ -27,6 +27,12 @@ pip install -e .
 cd inst_seg
 sh install.sh
 ```
-
+download https://drive.google.com/file/d/1SkQLeo3CelUUNpxpNZxZ94Jq3mewDGD6/view?usp=drive_link
+```angular2html
+mv ./Detic_LCOCOI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.pth ./inst_seg/inst_seg/models
+```
 ## HOW TO USE
+```angular2html
 APP/demo/demo_ketinet.py 참고 
+APP/demo/demo_detic.py 참고 
+```
