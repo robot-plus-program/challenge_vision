@@ -1,0 +1,8 @@
+opencv-python
+scipy
+matplotlib
+sklearn
+pytorch_lightning==1.5.0
+pyrealsense2
+imutils
+gdown
